@@ -1,0 +1,2 @@
+rdsfile	SNN.rds
+resolution	0.5

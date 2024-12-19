@@ -1,0 +1,2 @@
+Prefix plugins/Waltman/example/
+Plugin Waltman inputfile parameters.waltman.txt outputfile Waltman.rds
